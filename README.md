@@ -26,9 +26,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot1](/tip-calculator-app-main/images/screenshot1.png)
-![Screenshot2](/tip-calculator-app-main/images/screenshot2.png)
-![Screenshot3](/tip-calculator-app-main/images/screenshot3.png)
+![Screenshot1](/images/screenshot1.png)
+![Screenshot2](/images/screenshot2.png)
+![Screenshot3](/images/screenshot3.png)
 
 ### Links
 
